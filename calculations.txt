@@ -1,0 +1,11 @@
+calculations{
+
+add(){
+a+b = c;
+}
+
+sub(){
+a-b = c;
+}
+
+}
