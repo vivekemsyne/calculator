@@ -1,0 +1,7 @@
+multiplication{
+
+mul(){
+mul*mul=  nt;
+}
+
+}
