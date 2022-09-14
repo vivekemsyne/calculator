@@ -1,0 +1,8 @@
+substraction{
+
+sub(){
+
+substract 2 numbers;
+
+}
+}
